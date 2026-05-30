@@ -1,0 +1,16 @@
+
+{"valid_user": {
+
+  "URL": "https://v2.zenclass.in/login",
+  "browser": "Chrome",
+  "max_wait": 10,
+  "username": "bindhuashokan643@gmail.com",
+  "password": "Bindhu@15"
+
+   },
+  "invalid_user":{
+  "username": "bindhu@gmail.com",
+  "password": "bindhu15"
+}
+
+}
